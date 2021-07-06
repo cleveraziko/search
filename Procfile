@@ -1,0 +1,1 @@
+web: gunicorn Ikramov's_list.wsgi
