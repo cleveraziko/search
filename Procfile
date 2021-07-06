@@ -1,1 +1,1 @@
-web: gunicorn Ikramov's_list.wsgi
+web: gunicorn search.wsgi
